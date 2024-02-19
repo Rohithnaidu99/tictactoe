@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tictactoe/static/css/main.82a93372.css",
+    "main.js": "/tictactoe/static/js/main.74255ea2.js",
+    "static/media/bg.jpg": "/tictactoe/static/media/bg.5ed7540a300abf6ff06c.jpg",
+    "index.html": "/tictactoe/index.html",
+    "main.82a93372.css.map": "/tictactoe/static/css/main.82a93372.css.map",
+    "main.74255ea2.js.map": "/tictactoe/static/js/main.74255ea2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82a93372.css",
+    "static/js/main.74255ea2.js"
+  ]
+}
